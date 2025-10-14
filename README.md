@@ -1,2 +1,2 @@
 # c-programing-practice
-My c programming exercises and practice from book. 
+My C programming exercises and practice from book. 
